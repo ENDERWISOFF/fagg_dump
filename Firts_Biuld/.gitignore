@@ -1,0 +1,40 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Rider
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# JetBrains
+*.DotSettings.user
+
+# Other
+*.apk
+*.aab
+*.crashlytics/
+*.swp
+*.tmp
